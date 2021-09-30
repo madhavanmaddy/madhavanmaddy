@@ -31,7 +31,8 @@ Here are some ideas to get you started:
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Madhavan's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=madhavanmaddy&show_icons=true_border=true" />
+  ![Madhavan's GitHub stats](https://github-readme-stats.vercel.app/api?username=madhavanmaddy&count_private=true)
+
 
 </details>
 
