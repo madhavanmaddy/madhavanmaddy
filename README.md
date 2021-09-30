@@ -38,4 +38,4 @@ Here are some ideas to get you started:
 
 [twitter]: https://twitter.com/_madhavan_s_
 [instagram]: https://www.instagram.com/_.maddy._16/
-[linkedin]: www.linkedin.com/in/maddy-s/
+[linkedin]: https://www.linkedin.com/in/maddy-s/
