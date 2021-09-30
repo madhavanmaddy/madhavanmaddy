@@ -37,5 +37,5 @@ Here are some ideas to get you started:
 </details>
 
 [twitter]: https://twitter.com/_madhavan_s_
-[instagram]: https://www.instagram.com/_.maddy._16/
+[instagram]: https://www.instagram.com/_maddy._.s_/
 [linkedin]: https://www.linkedin.com/in/maddy-s/
