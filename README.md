@@ -1,41 +1,42 @@
-### Hi there I'm Madhavan👋
+
 
 <!--
 **madhavanmaddy/madhavanmaddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+
 -->
 
-## I'm a Flutter Developer!!
+### Hi there I'm Madhavan👋
 
+💻 **Software Engineer @ Zoho Corp** — Backend Development with Java  
+🔧 Building scalable backend systems and RESTful APIs  
+🎓 Former Flutter Lead – Developer Community, SASTRA University  
+🚀 Passionate about clean code, mentorship, and rapid product releases  
 
-- 🔭 I’m currently working on Flutter...
-- 🌱 I’m currently learning Backend Frameworks...
-- 👯 I’m looking to collaborate on App Development Projects...
-- ⚡ Fun fact: I always wear my earphones while coding ...
+---
 
+### 🛠️ Tech Stack
+- **Languages:** Java, SQL, Dart, C++, JavaScript  
+- **Backend:** REST APIs, MySQL, Firebase  
+- **Tools:** Git, Postman, AWS, VS Code  
+- **Frameworks:** Flutter, Internal Zoho Java-based Frameworks  
+- **Other:** GitHub, CI/CD, Play Store deployments
 
-### Connect with me:
+---
 
-
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
+### 📱 Projects I’ve Worked On
+- 🎓 **[Homeversity App](https://play.google.com/store/apps/details?id=com.dcs.homeversity)** — Campus utility app with 15,000+ users  
+- ❤️ **[Easy Donate App](https://play.google.com/store/apps/details?id=com.thedeveloperstudio.easydonatefinal)** — A donation & help platform, built with Flutter + Firebase  
 
 ---
 
 
+### Connect with me:
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  ![Madhavan's GitHub stats](https://github-readme-stats.vercel.app/api?username=madhavanmaddy&count_private=true)
+[Linkedin](https://www.linkedin.com/in/maddy-s/) <br />
+[Instagram](https://www.instagram.com/maddy.apk/)
 
 
-</details>
-
-[twitter]: https://twitter.com/_madhavan_s_
-[instagram]: https://www.instagram.com/_maddy._.s_/
-[linkedin]: https://www.linkedin.com/in/maddy-s/
+---
